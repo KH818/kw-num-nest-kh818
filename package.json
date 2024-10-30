@@ -1,0 +1,17 @@
+{
+    "name": "kw-num-nest-kh818",
+    "version": "0.0.1",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "bin": {
+        "numnest": "./main.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
